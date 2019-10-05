@@ -1,2 +1,2 @@
 # spring
-Spring and Spring Boot
+Demonstrate Spring and Spring Boot usage
